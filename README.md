@@ -18,7 +18,7 @@ The files we will be using are;
 Specifically,
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
-![FinalModule](https://github.com/735713038455163/UFO/blob/main/FinalModule.PNG)
+![FinalModule](https://github.com/735713038455163/UFO/blob/master/FinalModule.PNG)
 
 In this first build, a filter button was used to filter the data, and there is a date filter only.  
 
@@ -29,16 +29,16 @@ Here is the list of deliverables for the analysis of 2 deliverables:
 
 ### Deliverable 1: Filter UFO sightings on multiple criteria
 - The list element that creates the button is removed, and there are five list elements for filtering in the index.html file. 
-![5filters](https://github.com/735713038455163/UFO/blob/main/5filters.PNG)
+![5filters](https://github.com/735713038455163/UFO/blob/master/5filters.PNG)
 
 - The event listener is modified to detect changes to each filter in the app.js file. 
-![changelistener](https://github.com/735713038455163/UFO/blob/main/changelistener.PNG)
+![changelistener](https://github.com/735713038455163/UFO/blob/master/changelistener.PNG)
 
 - The updateFilters() function saves the element, value, and the id of the filter that was changed. 
-![updateFilters](https://github.com/735713038455163/UFO/blob/main/updateFilters.PNG)
+![updateFilters](https://github.com/735713038455163/UFO/blob/master/updateFilters.PNG)
 
 - The filterTable() function loops through all of the filters and keeps any data that matches the filter values. 
-![filterTable](https://github.com/735713038455163/UFO/blob/main/filterTable.PNG)
+![filterTable](https://github.com/735713038455163/UFO/blob/master/filterTable.PNG)
 
 - The webpage filters the table correctly based on user input. 
 
@@ -51,10 +51,10 @@ Now, thanks to research generously funded by W. Avy, a UFO-enthusiast and amateu
 ### To perform a search 
 1) Data is entered into the fields, and good luck sorting!. Without a list of input variables, and syntax structure how would you know what to type into the fileds?  
 
-![fields](https://github.com/735713038455163/UFO/blob/main/fields.PNG)
+![fields](https://github.com/735713038455163/UFO/blob/master/fields.PNG)
 
 2) Then information is displayed filtered.
-![Final](https://github.com/735713038455163/UFO/blob/main/Final.PNG)
+![Final](https://github.com/735713038455163/UFO/blob/master/Final.PNG)
 
 # Summary
 
